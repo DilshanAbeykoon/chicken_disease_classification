@@ -1,0 +1,1 @@
+from cnn_classifier.componets.data_ingestion import DataIngestion
